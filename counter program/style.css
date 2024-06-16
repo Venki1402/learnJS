@@ -1,0 +1,27 @@
+*{
+    background-color: #FF9F1C;
+}
+.main{
+    position: absolute;
+    text-align: center;
+    left: 43vw;
+    top: 30vh;
+}
+.display-number{
+    text-align: center;
+    font-size: 10em;
+    color: #011627;
+}
+
+.button{
+    font-size: 16px;
+    border-radius: 8px;
+    border: 2px solid #2EC4B6;
+    cursor:pointer;
+    color: #E71D36;
+}
+
+.button:hover {
+    background-color: white; /* Green */
+    transition: all 0.3s;
+  }
